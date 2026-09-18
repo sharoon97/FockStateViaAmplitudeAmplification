@@ -14,9 +14,9 @@ The protocols replace a single strong control operation with a sequence of weake
 ## Main results
 
 - We introduce **very oblivious amplitude amplification**, which uses reflections acting only on a signal qubit together with the state-preparation unitary and its inverse.
-- For traveling single-photon generation, the required protocol length scales as \(N \sim 1/\sqrt{p}\), improving on the \(N \sim 1/p\) scaling of repeated heralded attempts, where \(p\) is the one-pulse success probability.
+- For traveling single-photon generation, the required protocol length scales as N ~ 1/sqrt(p), improving on the N ~ 1/p scaling of repeated heralded attempts, where p is the one-pulse success probability.
 - The protocol can reduce error from intrinsic cavity loss relative to a single strong control pulse in experimentally relevant regimes.
-- For circuit QED, fixed-point amplitude amplification yields a Fock-state-preparation sequence of length \(O(n^{1/4})\), where \(n\) is the target photon number. This is a quadratic improvement over the \(O(n^{1/2})\) scaling of the prior approach considered in the paper.
+- For circuit QED, fixed-point amplitude amplification yields a Fock-state-preparation sequence of length O(n^{1/4}), where n is the target photon number. This is a quadratic improvement over the O(n^{1/2}) scaling of the prior approach considered in the paper.
 - The same framework is extended to NOON-state preparation using two dispersively coupled cavity-qubit systems and a beam-splitter interaction.
 
 ## Physical settings
